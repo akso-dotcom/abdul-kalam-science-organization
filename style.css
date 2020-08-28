@@ -1,0 +1,162 @@
+@import url('https://fonts.google.com/css?family=Bad+script');
+
+
+
+body{
+background-image: url(http://wallpapercave.com/wp/xnHN3ix.jpg);
+
+
+
+
+
+
+}
+
+
+h2{
+	text-transform: uppercase;
+font-family: sans-serif;font-weight: bolder;
+color:  #ffa64d;
+border-bottom: 1px #A9A9A9 solid;
+font-size: 29px,
+background: linear-gradient(to right  #ff751a, #ff751a, #ffffff);
+text-align:left;
+
+}
+.box{
+	position:relative;
+	align-content: right;
+padding-top: 50px;
+padding-left: 50px;
+border-radius: 10px;
+width: 1000px;
+height: 300px;
+justify-content:center;
+align-items:center;
+background: #060c21;
+
+
+
+
+
+}
+.text{
+align-items:center;
+align-content: center;
+border-radius: 10px;
+padding-bottom: 100px;
+
+}
+.box:before{
+content: '';
+position: absolute;
+top: -2px;
+left: -2px;
+right: -2px;
+bottom: -2px;
+background: #fff;
+z-index: -1;
+border-radius: 10px;
+
+
+
+
+
+}
+.box:after{
+content: '';
+padding-left: 30px;
+position: absolute;
+top: -3px;
+left: -2px;
+right: -2px;
+bottom: -2px;
+background: #fff;
+z-index: -2;
+filter: blur(50px);
+
+
+
+
+
+}
+.box:before,
+.box:after{
+
+	background: linear-gradient(360deg,#006622,#ffffff,
+		#ff751a);
+	align-items: center;
+}
+a{
+	position: relative;
+	display: inline-block;
+
+	border-radius: 30px;
+	padding: 15px 30px;
+	color: #ffffff;
+	text-shadow: 20px;
+	letter-spacing: 4px;
+	text-decoration: none;
+	font-size: 24px;
+	font-style: italic;
+	font-family: sans-serif;
+	overflow: hidden;
+	transition: 0.1s;
+
+
+
+#2196f3
+
+
+
+}
+a:hover{
+background:#3377ff;
+box-shadow: 0 0 20px #3377ff , 0 0 40px #3377ff,0 0 60px#3377ff  ;
+transition-delay: 0.5s;}
+
+h1{
+	position:left;
+	margin: 0px,
+	width:100%;
+	text-align: center;
+	padding-bottom:0px;
+	font:bolder;
+	color:#ffa64d; 
+	cursor: crosshair;
+font-family: cursive;
+font-weight: lighter;
+font-size:2em;
+border-collapse: 
+text-shadow: 0 0 10 rgba(255,255,255,1),
+ 0 0 10 rgba(255,255,255,1),
+ 0 0 40 rgba(255,255,255,1),
+ 0 0 80 rgba(255,255,255,1),
+ 0 0 160 rgba(255,255,255,1);
+border-bottom: 1px  #A9A9A9 solid;
+
+
+}
+p{
+	font-size: 20px;
+	text-transform: initial;s
+	text-shadow:0 0 10 rgba(255,255,255,1),
+ 0 0 10 rgba(255,255,255,1),
+ 0 0 40 rgba(255,255,255,1),
+ 0 0 80 rgba(255,255,255,1),
+ 0 0 160 rgba(255,255,255,1);
+ text-shadow: 0 0 30px #ff005b;
+ font-family: sans-serif;
+}
+
+.text{
+font-family: sans-serif;
+color: white;
+font-weight:normal;
+font-size: 19px;
+
+
+
+
+}
+
